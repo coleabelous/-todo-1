@@ -2,13 +2,13 @@ import {NgModule} from '@angular/core';
 import {BrowserModule} from '@angular/platform-browser';
 
 import {AppComponent} from './app.component';
-import {CategotiesComponent} from './views/categoties/categoties.component';
+import {CategoriesComponent} from './views/categories/categories.component';
 
 
 @NgModule({
   declarations: [
     AppComponent,
-    CategotiesComponent,
+    CategoriesComponent,
 
   ],
   imports: [
